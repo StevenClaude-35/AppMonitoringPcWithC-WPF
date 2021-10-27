@@ -1,0 +1,15 @@
+D:\Formation C#-WPF\WpfAppMoniteurPC\WpfAppMoniteurPC\bin\Debug\WpfAppMoniteurPC.exe.config
+D:\Formation C#-WPF\WpfAppMoniteurPC\WpfAppMoniteurPC\bin\Debug\WpfAppMoniteurPC.exe
+D:\Formation C#-WPF\WpfAppMoniteurPC\WpfAppMoniteurPC\bin\Debug\WpfAppMoniteurPC.pdb
+D:\Formation C#-WPF\WpfAppMoniteurPC\WpfAppMoniteurPC\obj\Debug\WpfAppMoniteurPC.csproj.AssemblyReference.cache
+D:\Formation C#-WPF\WpfAppMoniteurPC\WpfAppMoniteurPC\obj\Debug\MainWindow.g.cs
+D:\Formation C#-WPF\WpfAppMoniteurPC\WpfAppMoniteurPC\obj\Debug\App.g.cs
+D:\Formation C#-WPF\WpfAppMoniteurPC\WpfAppMoniteurPC\obj\Debug\WpfAppMoniteurPC_MarkupCompile.cache
+D:\Formation C#-WPF\WpfAppMoniteurPC\WpfAppMoniteurPC\obj\Debug\WpfAppMoniteurPC_MarkupCompile.lref
+D:\Formation C#-WPF\WpfAppMoniteurPC\WpfAppMoniteurPC\obj\Debug\MainWindow.baml
+D:\Formation C#-WPF\WpfAppMoniteurPC\WpfAppMoniteurPC\obj\Debug\WpfAppMoniteurPC.g.resources
+D:\Formation C#-WPF\WpfAppMoniteurPC\WpfAppMoniteurPC\obj\Debug\WpfAppMoniteurPC.Properties.Resources.resources
+D:\Formation C#-WPF\WpfAppMoniteurPC\WpfAppMoniteurPC\obj\Debug\WpfAppMoniteurPC.csproj.GenerateResource.cache
+D:\Formation C#-WPF\WpfAppMoniteurPC\WpfAppMoniteurPC\obj\Debug\WpfAppMoniteurPC.csproj.CoreCompileInputs.cache
+D:\Formation C#-WPF\WpfAppMoniteurPC\WpfAppMoniteurPC\obj\Debug\WpfAppMoniteurPC.exe
+D:\Formation C#-WPF\WpfAppMoniteurPC\WpfAppMoniteurPC\obj\Debug\WpfAppMoniteurPC.pdb
